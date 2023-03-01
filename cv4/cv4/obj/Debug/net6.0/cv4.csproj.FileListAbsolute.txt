@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\cv4\cv4\bin\Debug\net6.0\cv4.exe
+C:\Users\Student\source\repos\cv4\cv4\bin\Debug\net6.0\cv4.deps.json
+C:\Users\Student\source\repos\cv4\cv4\bin\Debug\net6.0\cv4.runtimeconfig.json
+C:\Users\Student\source\repos\cv4\cv4\bin\Debug\net6.0\cv4.dll
+C:\Users\Student\source\repos\cv4\cv4\bin\Debug\net6.0\cv4.pdb
+C:\Users\Student\source\repos\cv4\cv4\obj\Debug\net6.0\cv4.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\cv4\cv4\obj\Debug\net6.0\cv4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\cv4\cv4\obj\Debug\net6.0\cv4.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\cv4\cv4\obj\Debug\net6.0\cv4.AssemblyInfo.cs
+C:\Users\Student\source\repos\cv4\cv4\obj\Debug\net6.0\cv4.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\cv4\cv4\obj\Debug\net6.0\cv4.dll
+C:\Users\Student\source\repos\cv4\cv4\obj\Debug\net6.0\refint\cv4.dll
+C:\Users\Student\source\repos\cv4\cv4\obj\Debug\net6.0\cv4.pdb
+C:\Users\Student\source\repos\cv4\cv4\obj\Debug\net6.0\cv4.genruntimeconfig.cache
+C:\Users\Student\source\repos\cv4\cv4\obj\Debug\net6.0\ref\cv4.dll
