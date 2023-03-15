@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\cv6\cv6\bin\Debug\net6.0\cv6.exe
+C:\Users\Student\source\repos\cv6\cv6\bin\Debug\net6.0\cv6.deps.json
+C:\Users\Student\source\repos\cv6\cv6\bin\Debug\net6.0\cv6.runtimeconfig.json
+C:\Users\Student\source\repos\cv6\cv6\bin\Debug\net6.0\cv6.dll
+C:\Users\Student\source\repos\cv6\cv6\bin\Debug\net6.0\cv6.pdb
+C:\Users\Student\source\repos\cv6\cv6\obj\Debug\net6.0\cv6.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\cv6\cv6\obj\Debug\net6.0\cv6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\cv6\cv6\obj\Debug\net6.0\cv6.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\cv6\cv6\obj\Debug\net6.0\cv6.AssemblyInfo.cs
+C:\Users\Student\source\repos\cv6\cv6\obj\Debug\net6.0\cv6.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\cv6\cv6\obj\Debug\net6.0\cv6.dll
+C:\Users\Student\source\repos\cv6\cv6\obj\Debug\net6.0\refint\cv6.dll
+C:\Users\Student\source\repos\cv6\cv6\obj\Debug\net6.0\cv6.pdb
+C:\Users\Student\source\repos\cv6\cv6\obj\Debug\net6.0\cv6.genruntimeconfig.cache
+C:\Users\Student\source\repos\cv6\cv6\obj\Debug\net6.0\ref\cv6.dll
