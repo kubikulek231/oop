@@ -1,0 +1,38 @@
+﻿<Window x:Class="cv9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cv9"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="350" ResizeMode="NoResize">
+    <Grid>
+
+        <Button Content="0" HorizontalAlignment="Left" Margin="23,352,0,0" VerticalAlignment="Top" Width="117" Height="60" Click="Button_Click"/>
+        <Button Content="1" HorizontalAlignment="Left" Margin="23,287,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="2" HorizontalAlignment="Left" Margin="84,287,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="3" HorizontalAlignment="Left" Margin="145,287,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="4" HorizontalAlignment="Left" Margin="23,222,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="5" HorizontalAlignment="Left" Margin="84,222,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="6" HorizontalAlignment="Left" Margin="145,222,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="7" HorizontalAlignment="Left" Margin="23,157,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="8" HorizontalAlignment="Left" Margin="84,157,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="9" HorizontalAlignment="Left" Margin="145,157,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="," HorizontalAlignment="Left" Margin="145,352,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="+" HorizontalAlignment="Left" Margin="206,352,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="-" HorizontalAlignment="Left" Margin="206,287,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="*" HorizontalAlignment="Left" Margin="206,222,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="/" HorizontalAlignment="Left" Margin="206,157,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Label x:Name ="Value" Content="Label" HorizontalAlignment="Left" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" FontSize="20" Margin="23,49,0,0" VerticalAlignment="Top" Width="300" Background="#FFDDDDDD" Height="38" BorderBrush="Black" BorderThickness="1,1,1,1"/>
+        <Label x:Name ="ValuePast" Content="Label" HorizontalAlignment="Left" HorizontalContentAlignment="Right" VerticalContentAlignment="Center"  Margin="23,16,0,0" VerticalAlignment="Top" Width="300" Background="#FFDDDDDD" BorderThickness="1,1,1,1" BorderBrush="Black"/>
+        <Button Content="&lt;-" HorizontalAlignment="Left" Margin="23,92,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="=" HorizontalAlignment="Left" Margin="267,287,0,0" VerticalAlignment="Top" Width="56" Height="125" Click="Button_Click"/>
+        <Button Content="+/-" HorizontalAlignment="Left" Margin="206,92,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="CE" HorizontalAlignment="Left" Margin="84,92,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="C" HorizontalAlignment="Left" Margin="145,92,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+        <Button Content="^" HorizontalAlignment="Left" Margin="267,222,0,0" VerticalAlignment="Top" Width="56" Height="60" Click="Button_Click"/>
+
+
+
+    </Grid>
+</Window>
